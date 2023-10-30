@@ -4,3 +4,8 @@
 
 2023.09.25 Assignment #3 ~ #4
 
+2023.10.16 Assignment #5
+
+2023.10.23 Mid-terms
+
+2023.10.30 Assignment #6
