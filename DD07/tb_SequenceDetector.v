@@ -5,7 +5,7 @@ module tb_SequenceDetector;
 wire Y;
 reg CLK, nRST, X;
 
-SequenceDetector sd (.Y(Y), .CLK(CLK), .nRST(nRST), .X(X));
+SequenceDetector SeqDect (.Y(Y), .CLK(CLK), .nRST(nRST), .X(X));
 
 initial
 begin
