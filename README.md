@@ -9,3 +9,5 @@
 2023.10.23 Mid-terms
 
 2023.10.30 Assignment #6
+
+2023.11.06 Assignment #7
